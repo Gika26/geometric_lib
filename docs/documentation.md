@@ -52,4 +52,6 @@ perimeter(5)
 
 ## История изменений
 
+- `1beda70` — Add project documentation
 - `8ba9aeb` - L-03: Circle and square added
+- `d078c8d` — L-03: Docs added
